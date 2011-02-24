@@ -1,1 +1,5 @@
-A java demo project how to use the java.util.concurrent ExecutorService (ThreadPool).
+A java demo project how to use the java.util.concurrent ExecutorService (ThreadPool) see the class
+https://github.com/tux2323/thread-pool-demo/blob/master/src/main/java/com/github/tux2323/pooldemo/ProfilingService.java
+
+For a simple load test for the profiling service see
+https://github.com/tux2323/thread-pool-demo/blob/master/src/test/java/com/github/tux2323/pooldemo/ProfilingServiceLoadTest.java
